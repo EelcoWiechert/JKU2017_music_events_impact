@@ -2,4 +2,4 @@
 
 Dependencies
 
-'pytrends'
+`pytrends`
