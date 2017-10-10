@@ -5,7 +5,7 @@ import time
 import random
 
 LOCATION_TREND_SOURCE_CSV = 'data/country_cid.csv'
-EVENT_FILE = 'events.csv'
+EVENT_FILE = 'data/events.csv'
 
 x = pd.DataFrame(get_trend_topics_google(LOCATION_TREND_SOURCE_CSV).get_data())
 

@@ -1,0 +1,188 @@
+0,Pokémon Go,2016,7,16,popular
+1,iPhone 7,2016,9,8,popular
+2,Donald Trump,2016,11,9,popular
+3,Prince,2016,4,21,popular
+4,Powerball,2016,1,14,popular
+5,David Bowie,2016,1,11,popular
+6,Deadpool,2016,2,13,popular
+7,Olympics,2016,8,6,popular
+8,Slither.io,2016,4,16,popular
+9,Suicide Squad,2016,7,31,popular
+10,US Election,2016,11,9,news
+11,Olympics,2016,8,6,news
+12,Brexit,2016,6,24,news
+13,Orlando Shooting,2016,6,12,news
+14,Zika Virus,2016,1,28,news
+15,Panama Papers,2016,4,5,news
+16,Nice,2016,7,15,news
+17,Brussels,2016,3,22,news
+18,Dallas Shooting,2016,7,8,news
+19,熊本 地震 ( Kumamoto Earthquake),2016,4,15,news
+20,iPhone 7,2016,9,8,tech
+21,Freedom 251,2016,2,18,tech
+22,iPhone SE,2016,3,22,tech
+23,iPhone 6S,2016,1,2,tech
+24,Google Pixel,2016,10,5,tech
+25,Samsung Galaxy S7,2016,2,22,tech
+26,iPhone 7 Plus,2016,9,8,tech
+27,Note 7,2016,7,31,tech
+28,Nintendo Switch,2016,10,20,tech
+29,Samsung J7,2016,12,24,tech
+30,Lamar Odom,2015,10,14,popular
+31,Charlie Hebdo,2015,1,7,popular
+32,Agar.io,2015,7,12,popular
+33,Jurassic World,2015,6,14,popular
+34,Paris,2015,11,14,popular
+35,Furious 7,2015,4,4,popular
+36,Fallout 4,2015,11,10,popular
+37,Ronda Rousey,2015,11,15,popular
+38,Caitlyn Jenner,2015,5,24,popular
+39,American Sniper,2015,1,18,popular
+40,Charlie Hebdo,2015,1,7,news
+41,Paris,2015,11,14,news
+42,Hurricane Patricia,2015,10,24,news
+43,Isis,2015,11,16,news
+44,Nepal,2015,4,26,news
+45,El Chapo,2015,7,12,news
+46,Greece,2015,7,5,news
+47,Baltimore Riots,2015,4,28,news
+48,San Bernardino,2015,11,2,news
+49,Hurricane Joaquin,2015,9,30,news
+50,iPhone 6S,2015,9,10,tech
+51,Samsung Galaxy S6,2015,3,2,tech
+52,Apple Watch,2015,3,10,tech
+53,iPad Pro,2015,9,10,tech
+54,LG G4,2015,4,29,tech
+55,Samsung Galaxy Note 5,2015,8,14,tech
+56,Samsung Galaxy J5,2015,12,25,tech
+57,HTC One M9,2015,3,1,tech
+58,Nexus 6P,2015,9,30,tech
+59,Surface Pro 4,2015,10,7,tech
+60,iPhone 6,2014,9,9,tech
+61,Samsung Galaxy S5,2014,2,25,tech
+62,Nexus 6,2014,10,16,tech
+63,Moto G,2014,11,28,tech
+64,Samsung Note 4,2014,8,31,tech
+65,LG G3,2014,12,25,tech
+66,Xbox One,2014,12,25,tech
+67,Apple Watch,2014,9,9,tech
+68,Nokia X,2014,3,23,tech
+69,iPad Air,2014,10,17,tech
+70,Ebola,2014,10,16,news
+71,ISIS,2014,8,20,news
+72,Malaysia Airlines,2014,3,8,news
+73,Crimea / Ukraine,2014,12,17,news
+74,Ferguson,2014,11,25,news
+75,Gaza and Israel,2014,7,18,news
+76,Scotish Referendum,2014,9,18,news
+77,Oscar Pistorius trial,2014,4,10,news
+78,Robin Williams,2014,8,12,popular
+79,World Cup,2014,6,14,popular
+80,Ebola,2014,10,16,popular
+81,Malaysia Airlines,2014,3,8,popular
+82,ALS Ice Bucket Challenge,2014,8,21,popular
+83,Flappy Bird,2014,2,10,popular
+84,Conchita Wurst,2014,5,11,popular
+85,ISIS,2014,8,20,popular
+86,Frozen,2014,3,22,popular
+87,Sochi Olympics,2014,2,8,popular
+88,Nelson Mandela,2013,12,6,popular
+89,Paul Walker,2013,12,1,popular
+90,iPhone 5s,2013,9,10,popular
+91,Cory Monteith,2013,7,14,popular
+92,Harlem Shake,2013,2,23,popular
+93,Boston Marathon,2013,4,15,popular
+94,Royal Baby,2013,7,22,popular
+95,Samsung Galaxy S4,2013,3,15,popular
+96,PlayStation 4,2013,2,21,popular
+97,North Korea,2013,3,30,popular
+98,iPhone 5s,2013,9,10,tech
+99,Samsung Galaxy S4,2013,3,15,tech
+100,PlayStation 4,2013,2,21,tech
+101,Xbox One,2013,5,22,tech
+102,Nexus 5,2013,10,31,tech
+103,HTC One,2013,4,27,tech
+104,iPad Air,2013,10,23,tech
+105,Blackberry 10,2013,1,30,tech
+106,Samsung Galaxy Note 3,2013,12,25,tech
+107,Nokia Lumia 1020,2013,10,26,tech
+108,Boston Marathon,2013,4,15,events
+109,Typhoon Haiyan,2013,11,8,events
+110,Government Shutdown,2013,9,30,events
+111,2014 FIFA World Cup,2013,12,6,events
+112,Chinese New Year,2013,2,10,events
+113,Australian Open,2013,1,27,events
+114,Eurovision Song Contest,2013,5,18,events
+115,Wimbledon,2013,6,26,events
+116,Syria Conflict,2013,8,30,events
+117,EuroBasket,2013,9,9,events
+118,Whitney Houston,2012,2,12,popular
+119,Gangnam Style,2012,9,29,popular
+120,Hurricane Sandy,2012,10,29,popular
+121,iPad 3,2012,3,7,popular
+122,Diablo 3,2012,5,15,popular
+123,Kate Middleton,2012,9,14,popular
+124,Olympics 2012,2012,7,28,popular
+125,Amanda Todd,2012,10,13,popular
+126,Michael Clarke Duncan,2012,9,4,popular
+127,BBB12,2012,1,17,popular
+128,iPad 3,2012,3,7,tech
+129,Samsung Galaxy S3,2012,12,25,tech
+130,iPad Mini,2012,10,23,tech
+131,Nexus 7,2012,12,25,tech
+132,Galaxy Note 2,2012,12,25,tech
+133,Play Station,2012,12,25,tech
+134,iPad 4,2012,12,25,tech
+135,Microsoft Surface,2012,6,19,tech
+136,Kindle Fire,2012,12,25,tech
+137,Nokia Lumia 920,2012,12,2,tech
+138,Hurricane Sandy,2012,10,29,tech
+139,Kate Middleton Pictures Released,2012,12,13,tech
+140,Olympics 2012,2012,7,28,tech
+141,SOPA Debate,2012,1,20,tech
+142,Costa Concordia crash,2012,1,15,tech
+143,Presidential Debate,2012,9,30,tech
+144,Stratosphere Jump,2012,10,14,tech
+145,Penn State Scandal,2012,7,23,tech
+146,Trayvon Martin shooting,2012,3,27,tech
+147,Pussy Riots,2012,8,17,tech
+148,Rebecca Black,2011,3,18,popular
+149,Google Plus,2011,7,12,popular
+150,Ryan Dunn,2011,6,20,popular
+151,Casey Anthony,2011,7,5,popular
+152,Battlefield 3,2011,10,27,popular
+153,iPhone 5,2011,10,4,popular
+154,Adele,2011,12,31,popular
+155,東京 電力,2011,3,13,popular
+156,Steve Jobs,2011,10,6,popular
+157,iPad 2,2011,2,24,popular
+158,Chatroulette,2010,3,20,popular
+159,iPad,2010,1,28,popular
+160,Justin Bieber,2010,8,1,popular
+161,Nicki Minaj,2010,11,27,popular
+162,Friv,2010,12,25,popular
+163,Myxer,2010,12,25,popular
+164,Katy Perry,2010,9,24,popular
+165,Twitter,2010,8,1,popular
+166,Gamezer,2010,3,19,popular
+167,Facebook,2010,12,25,popular
+168,Michael Jackson,2009,6,26,popular
+169,Facebook,2009,12,25,popular
+170,Tuenti,2009,12,25,popular
+171,Twitter,2009,8,6,popular
+172,Sanalika,2009,6,13,popular
+173,New Moon,2009,11,21,popular
+174,Lady Gaga,2009,11,28,popular
+175,windows 7,2009,10,22,popular
+176,dantri.com.vn,2009,12,25,popular
+177,Torpedo Gratis,2009,11,26,popular
+178,Sarah Palin,2008,8,29,popular
+179,Beijing 2008,2008,8,9,popular
+180,Facebook Login,2008,12,28,popular
+181,Tuenti,2008,12,25,popular
+182,Heath Ledger,2008,1,23,popular
+183,Obama,2008,11,5,popular
+184,Nasza Klasa,2008,12,20,popular
+185,Wer-kennt-wen,2008,11,11,popular
+186,Euro 2008,2008,6,7,popular
+187,Jonas Brothers,2008,8,9,popular
