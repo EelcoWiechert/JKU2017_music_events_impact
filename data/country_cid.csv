@@ -1,4 +1,14 @@
 year;country;cid;cat
+2007;;zg697;news
+2007;;zg696;popular
+2008;;zg747;concerts
+2011;;zg773;entertainment
+2011;;zg423;entertainment
+2012;;zg405;music_artists
+2012;;zg400;events
+2013;;zg395;music_artists
+2015;;b58acad1-c002-479a-b295-497a15040e76;music_artists
+2016;;e56e4c31-7aa3-4f37-83bb-4ea09cff1023;music_artists
 2016;;f5e5de38-e7e0-4158-ba34-afb9d5e00ec6;popular
 2016;;694ba116-e7e5-49bd-8f5b-f9d340eab102;news
 2016;;0d17c934-b5ab-4782-978f-1535240dadf0;tech
