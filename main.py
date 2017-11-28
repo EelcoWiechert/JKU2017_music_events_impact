@@ -1,6 +1,5 @@
 from create_objects_for_d3 import *
 from create_objects_for_d3_artist import *
-from matplotlib.pylab import rcParams
 
 # MAKE OBJECT LIST
 OBJECT_LIST = 0
