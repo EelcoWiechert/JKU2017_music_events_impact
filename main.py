@@ -2,7 +2,7 @@ from create_objects_for_d3 import *
 from create_objects_for_d3_artist import *
 
 # MAKE OBJECT LIST
-OBJECT_LIST = 0
+OBJECT_LIST = 1
 # 0 = on genre
 # 1 = on artists
 

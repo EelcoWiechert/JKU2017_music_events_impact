@@ -9,7 +9,7 @@ import time
 def read_top_artists(a_file):
 
     # READ ARTISTS
-    artist_id = read_artists_reversed("data/time_series_analysis/LFM-1b_artists.txt")
+    artist_id = read_artists_reversed("../data/LFM-1b_artists.txt")
     top_artists = []
 
     # READ THE FILE WITH THE NAMES OF THE TOP ARTISTS
@@ -17,7 +17,6 @@ def read_top_artists(a_file):
 
         # FIND THE USED ID FOR THESE ARTISTS
         top_artists.append(t.rstrip('\n'))
-        print(artist_id[t.rstrip('\n')])
 
     return top_artists
 
